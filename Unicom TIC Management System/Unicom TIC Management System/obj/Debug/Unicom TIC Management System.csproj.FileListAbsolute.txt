@@ -25,3 +25,30 @@ C:\Users\ACER\OneDrive\Desktop\C# Project\Unicom TIC Management System\Unicom TI
 C:\Users\ACER\OneDrive\Desktop\C# Project\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ACER\OneDrive\Desktop\C# Project\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\System.Data.SQLite.xml
 C:\Users\ACER\OneDrive\Desktop\C# Project\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom T.077940FC.Up2Date
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\Unicom TIC Management System.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\Unicom TIC Management System.exe
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\Unicom TIC Management System.pdb
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\EntityFramework.dll
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\System.Data.SQLite.dll
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\EntityFramework.xml
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\bin\Debug\System.Data.SQLite.xml
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.exe.config
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.exam.resources
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.mark.resources
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.Role.resources
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.timetable.resources
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.user.resources
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.course.resources
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.login.resources
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.main.resources
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom_TIC_Management_System.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom T.077940FC.Up2Date
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.exe
+C:\Users\ACER\OneDrive\Desktop\C#\Unicom TIC Management System\Unicom TIC Management System\obj\Debug\Unicom TIC Management System.pdb

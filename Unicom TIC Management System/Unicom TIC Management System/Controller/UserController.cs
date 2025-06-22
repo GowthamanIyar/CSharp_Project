@@ -11,6 +11,7 @@ using Unicom_TIC_Management_System.Model;
 
 namespace Unicom_TIC_Management_System.Controller
 {
+    //userController
     internal class UserController
     {
         public static void Insert(string name, int age)
