@@ -20,7 +20,7 @@ namespace Unicom_TIC_Management_System.Data
                                 Address TEXT NOT NULL,
                                 DateOfBirth DATE NOT NULL,
                                 NIC TEXT,                               
-                                Phone INTEGER NOT NULL,
+                                Phone INTEGER,
                                 Email TEXT,
                                 Course TEXT,
                                 Subjects TEXT,

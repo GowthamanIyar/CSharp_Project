@@ -28,7 +28,7 @@ namespace Unicom_TIC_Management_System
 
         public void loadroles() 
         {
-            List<string> rolelist = new List<string> { "Admin", "Student", "Lecturer", "Staff" };
+            List<string> rolelist = new List<string> { "Admin", "Staff", "Lecturer", "Student" };
             roles.DataSource = rolelist;
         }
         public void adduser()
@@ -74,7 +74,7 @@ namespace Unicom_TIC_Management_System
         private void roles_SelectedIndexChanged(object sender, EventArgs e)
         {
             selectedRole = roles.SelectedIndex+1;
-            if (selectedRole == 0) { userrole = "Admin"; } else if (selectedRole == 1) { userrole = "Student"; } else if (selectedRole == 2) { userrole = "Lecturer"; } else if (selectedRole == 3) { userrole = "Staff"; };
+            if (selectedRole == 0) { userrole = "Admin"; } else if (selectedRole == 1) { userrole = "Staff"; } else if (selectedRole == 2) { userrole = "Lecturer"; } else if (selectedRole == 3) { userrole = "Student"; };
         }
 
         private void add_Click(object sender, EventArgs e)
